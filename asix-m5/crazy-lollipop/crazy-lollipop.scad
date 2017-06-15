@@ -29,7 +29,6 @@ rotate([0,0,0]) translate([146,0,-10]) linear_extrude(height=20)
 rotate([0,9,-90])
 text("6",size=0,font="arial", halign="center", valign="center");
    
-//putilla 
 //rotate([180,180,-90])//rotar
 //translate([0,-236.4,-9])//trasladar
 //linear_extrude(height=19)//ancho de la palabra
