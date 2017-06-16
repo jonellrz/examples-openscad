@@ -1,7 +1,7 @@
 /* 
     scalable-usb-holder is a 3D scalable usb holder model
     
-    Copyright (C) 2017  Andryc Jonell Ramirez Chavez
+    Copyright (C) 2017  jonellrz
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
